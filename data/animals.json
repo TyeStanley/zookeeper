@@ -108,6 +108,18 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Bubbles",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
